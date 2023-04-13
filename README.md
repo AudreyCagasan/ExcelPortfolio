@@ -5,4 +5,4 @@ MyAnimeList is based on the data collected in my personal MyAnimeList. I only in
 
 Other information about the data from MyAnimeList is that titles are separated by seasons such as in the website due to long running shows having breaks, studio transfers, or quality changes. I only included a secondary genre and not all data for better readability, in case of I would like to import it into a different program, and since majority of shows had two genres and only a minority did not have a second genre. Also, if referring to the data, do not display all studios since the data will be cluttered and decrease readability.
 
-Bike Project demonstrates data cleaning, Pivot Tables, and dashboard creation for a data set of over a thousand rows. This data set is from Alex The Analyst on YouTube.
+Bike Project demonstrates data cleaning, Pivot Tables, and dashboard creation for a data set of over a thousand rows. This data set is from Alex The Analyst on YouTube. The deliverables created in this project are seen in the MyAnimeList project but with a larger set of data.
